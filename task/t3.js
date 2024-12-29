@@ -1,5 +1,6 @@
 //REST OPERATOR
 // Rest Operator is used to collect remaining elements or properties.
+//the no of arguments are stored in rest operator.
 //Example
 console.log("Rest operator");
 fun=(f,s,...rest)=>{
