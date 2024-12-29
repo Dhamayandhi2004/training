@@ -37,3 +37,4 @@ obj1.forEach((key,value)=>{  // in this both key and value are user defined so i
 console.log(key,value);
 })
 //task1) print the key value pair in forEach
+
