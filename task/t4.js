@@ -2,6 +2,7 @@
 calculate=(a,b,callback)=>{
     console.log("Adding of two numbers..");
     console.log(a+b);
+    console.log("Multiplication of two numbers: ",a*b)
     setTimeout(()=>{
         callback();
     },2000);

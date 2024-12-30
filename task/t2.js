@@ -16,7 +16,7 @@ fun2("Hello World.");
 //3)funtion without argument  with return type
 
 fun3=()=>{
-    return "Good";
+    return "Good this happen at right time";
 }
 console.log(fun3());
 

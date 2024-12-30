@@ -61,7 +61,7 @@ else{
 //Bitwise NOT(~)
 console.log("Bitwise NOT operator")
 
-var w=27;
+var w=99;
 var u=78;
 function isEve(num){
     return ~(num&1);

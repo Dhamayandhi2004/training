@@ -15,7 +15,7 @@ fun("jhon","25","Reading","Gaming","Drawing","Dancing");
 //Example
 arr1=[1,2,3];
 arr2=[4,5,6];
-arr3=[...arr1,...arr2,"hai","hello"];
+arr3=[...arr1,...arr2,"hai","hello","welcome"];
 console.log(arr3);
 
 
